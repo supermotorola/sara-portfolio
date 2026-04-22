@@ -78,10 +78,9 @@ export default function ScrollStackProjects() {
                 className="scroll-stack-card"
                 ref={el => (cardsRef.current[i] = el)}
               >
-                <div
-                  className="ss-image"
-                  style={{ '--bg': `url('${p.image}')` }}
-                />
+                <div className="ss-image">
+                  <img src={p.image} alt={p.title} />
+                </div>
                 <div className="ss-content">
                   <span className="project-tag">{p.tag}</span>
                   <h3 className="project-title">{p.title}</h3>
