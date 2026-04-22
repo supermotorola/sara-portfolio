@@ -5,7 +5,7 @@ export const projects = [
     title: '2025 Global Research Report',
     description: 'Synthesized 8,000+ respondent insights into a cohesive visual narrative. Designed scalable framework supporting 4 regional editions with 42 complex industry trends.',
     stats: ['✓ 4 Regional Editions', '✓ 42 Trends Mapped'],
-    image: './project-1-research_png.png',
+    image: '/project-1-research_png.png',
   },
   {
     id: 2,
@@ -13,7 +13,7 @@ export const projects = [
     title: 'Enterprise Website Revamp',
     description: 'Led comprehensive CRO audit, user journey mapping, and visual modernisation. Delivered 105% YoY conversion uplift across 700+ pages with reusable WordPress modules.',
     stats: ['✓ +105% Conversions', '✓ 9,181 Views'],
-    image: './project-2-website_png.png',
+    image: '/project-2-website_png.png',
   },
   {
     id: 3,
@@ -21,7 +21,7 @@ export const projects = [
     title: 'Marketing & Event Excellence',
     description: 'Created a high-performance marketing ecosystem for global events. Focused on data-informed creative execution to build a cohesive visual identity that accelerates the sales pipeline and drives genuine engagement.',
     stats: ['✓ 193% Pipeline Revenue', '✓ 22% Open Rates'],
-    image: './project-3-marketing_png.png',
+    image: '/project-3-marketing_png.png',
   },
   {
     id: 4,
@@ -29,7 +29,7 @@ export const projects = [
     title: 'Peepwheel – Internal Management Tool',
     description: 'Built from 0-1: comprehensive brand identity, custom HR workflows, and high-density UI for desktop and tablet. Successfully unified fragmented recruitment and team management into a single scalable platform.',
     stats: ['✓ 0-1 Delivery', '✓ Full Brand System'],
-    image: './project-4-peepwheel_png.png',
+    image: '/project-4-peepwheel_png.png',
   },
   {
     id: 5,
@@ -37,7 +37,7 @@ export const projects = [
     title: 'Conversion Design: Scalable Frameworks',
     description: 'Engineered Unbounce template library for 100+ clients across verticals. Provided CRO audits, user journey mapping, and A/B testing frameworks. Certified in Landing Page Optimization via CXL Institute.',
     stats: ['✓ 100+ Clients', '✓ CXL Certified'],
-    image: './project-5-conversion_png.png',
+    image: '/project-5-conversion_png.png',
   },
   {
     id: 6,
@@ -45,6 +45,6 @@ export const projects = [
     title: 'Digital, Social & Creative Direction',
     description: 'Diverse creative output including YouTube video branding, social media ad campaigns, podcast visual identity, illustrations, and event collateral. Demonstrates versatility across print, digital, and motion design disciplines.',
     stats: ['✓ Multi-Channel Work', '✓ Full Creative Suite'],
-    image: './project-6-creative_png.png',
+    image: '/project-6-creative_png.png',
   },
 ];
